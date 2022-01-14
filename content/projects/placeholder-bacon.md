@@ -1,9 +1,11 @@
 ---
 category: food
-title: Placeholder Bacon
+title: Placeholder Beacon
 description: What is life without bacon?
 cover: https://baconmockup.com/400/200
-gallery: ['https://baconmockup.com/600/300', 'https://baconmockup.com/600/600']
+gallery:
+  - https://baconmockup.com/600/300
+  - https://baconmockup.com/600/600
 ---
 
 It is easy to write **markdown**-*enabled* content like this placeholder text, with support for images.
